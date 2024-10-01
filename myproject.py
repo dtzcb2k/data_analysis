@@ -1,5 +1,4 @@
 import streamlit as st
-st.write("Hello World")
 # 在要跑streamlit時要在terminal中輸入streamlit run 檔案名稱
 
 import pandas as pd
